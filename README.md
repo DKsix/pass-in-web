@@ -70,7 +70,7 @@ To set up the frontend for Pass In, follow these steps:
 
 Now, both the backend and frontend of Pass In should be set up and running. You can access the application by opening it in your web browser.
 
-## Features
+## ✔ Features
 
 Pass In comes with the following features:
 
@@ -81,11 +81,11 @@ Pass In comes with the following features:
 
 These features enhance the usability and functionality of Pass In, making it a powerful tool for event management.
 
-## License
+## 📄 License
 
 Pass In is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Credits
+## 👨‍💻 Credits
 
 Pass In was originally designed by RocketSeat and further developed by [Carlos Eduardo](https://github.com/DKsix).
 
