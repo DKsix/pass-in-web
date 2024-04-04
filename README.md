@@ -7,7 +7,7 @@
 
 ## 🤔 What is Pass In?
 
-Pass In is a web application designed to help event organizers manage participants efficiently. It provides features such as participant registration, attendee list management, check-in functionality, and more. With its user-friendly interface and robust backend, Pass In simplifies the process of handling event attendees.
+What it is: Pass In is a web application designed to help event organizers manage attendees efficiently. It provides features like attendee registration, attendee list management. With its user-friendly interface and robust backend, Pass In simplifies the process of managing event attendees.
 
 ## 👨‍🏫 Installation
 
